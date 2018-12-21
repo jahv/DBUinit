@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+<!--message_store Table -->
+<message_store  message_id="A" status="OK"/>
+<message_store  message_id="B" status="ERROR"/>
+</dataset>
